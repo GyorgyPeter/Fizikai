@@ -1,4 +1,3 @@
-[Új szöveges dokumentum.txt](https://github.com/user-attachments/files/18688685/Uj.szoveges.dokumentum.txt)
 
 # Jegyzőkönyv: Hálózati konfiguráció és tesztelés
 
@@ -329,14 +328,13 @@ Parancs: `netsh interface show interface`
 </details>
 
 ## 9. DNS-beállítások aktualizálása
-Parancs: `ipconfig /flushdns`
-<details>
+Parancs: `ipconfig /flushdns`  
 
-  <summary>Kép megtekintése</summary>
+***C:\Users\Tanulo>ipconfig /flushdns**
 
-  ![flushdns](https://github.com/PavlyasB/IPhalo/blob/main/Képek/dnsflush.png?raw=true)
+***Windows IP Configuration***
 
-</details>
+***Successfully flushed the DNS Resolver Cache.***
 
 ## 10. Csatolt hálózati meghajtók megjelenítése
 Parancs: `net use`
@@ -344,7 +342,7 @@ Parancs: `net use`
 
   <summary>Kép megtekintése</summary>
 
-  ![netuse](https://github.com/PavlyasB/IPhalo/blob/main/Képek/netuse.png?raw=true)
+![Képernyőkép 2025-02-06 120948](https://github.com/user-attachments/assets/343802fc-7ae5-4fb0-a72e-c43b2b299eed)
 
 </details>
 
@@ -354,7 +352,7 @@ Parancs: `nslookup www.ipon.hu`
 
   <summary>Kép megtekintése</summary>
 
-  ![Ipon](https://github.com/PavlyasB/IPhalo/blob/main/Képek/ipon.png?raw=true)
+![Képernyőkép 2025-02-06 121051](https://github.com/user-attachments/assets/eaa140fe-3c1f-49b2-91a7-07f5c90e9411)
 
 </details>
 
