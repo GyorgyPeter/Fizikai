@@ -1,4 +1,6 @@
-[Új szöveges dokumentum.txt](https://github.com/user-attachments/files/18688685/Uj.szoveges.dokumentum.txt)# Jegyzőkönyv: Hálózati konfiguráció és tesztelés
+[Új szöveges dokumentum.txt](https://github.com/user-attachments/files/18688685/Uj.szoveges.dokumentum.txt)
+
+# Jegyzőkönyv: Hálózati konfiguráció és tesztelés
 
 ## Bevezetés
 
